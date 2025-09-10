@@ -1,0 +1,20 @@
+
+# 自定义配置，心情语录
+my:
+  mood:
+    today: 周五
+    content: 期待周末
+    author: "小程序员"
+    # 功能开关
+  feature:
+      helloSwitch: true
+      closeMsg: "该接口正在维护，10分钟后再来吧！"
+  mqxu:
+    sms:
+      ccp:
+        serverIp: app.cloopen.com
+        port: 8883
+        accountSId: 2c94811c9860a9c401991a4c3cbe201d
+        accountToken: 8eb715c1676b44d4a4844d3bae2c6d50
+        appId: 2c94811c9860a9c401991a4c3e3d2024
+        templateId: 1
